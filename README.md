@@ -1,5 +1,5 @@
 # Etude-du-champ-efficace-via-machine-learning
-Les fichiers en .root sont les données.
+data_full.py permet d'extraire les données
 
 modeler.py permet de créer les différents réseaux neuronau
 
